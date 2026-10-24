@@ -1,0 +1,20 @@
+:git 
+:git-hub
+:w3c-html-validation - w3.org (Worldwide Web Consortium)
+:w3c-css-validation - w3.org  (Worldwide Web Consortium)
+:wave-accessibility - webaim.org (Institute for Disability Research, Policy & Practice Utah State University)
+:squoosh
+:MDN: Mozilla Development Network
+:https://htmlreference.io/
+:codepen.io
+:css zengarden.com
+:https://www.iconfinder.com
+:https://fonts.google.com/icons
+:https://www.colors.co
+: https://app.moqups.com/login/
+: https://www.scribd.com/
+: https://byui-cse.github.io/cse-ww-program/resources/frontend-resources.html#images
+
+:- olelu158905
+
+:- Gmail Password: !a@z#d$v%g^b&h*n(j)_o+ 
